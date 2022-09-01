@@ -1,0 +1,1 @@
+Collection of solved and partially solved problems from www.algorithms.wtf. 
